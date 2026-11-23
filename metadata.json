@@ -1,0 +1,6 @@
+{
+  "name": "BenchForge",
+  "description": "Coding Task Factory for generating, mutating, and validating realistic feature-development evaluation tasks from working software repositories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
